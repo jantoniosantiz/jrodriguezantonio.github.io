@@ -12,7 +12,7 @@ site_theme               : "air" # Currently available options are "default", "a
 title                    : "HOME"
 title_separator          : "-"
 name                     : &name "Juliana Rodriguez Antonio"
-description              : &description "Ph.D Candidate in Theoretical and Computational Chemistry"
+description              : &description "Ph.D Candidate"
 url                      : https://jrodriguezantonio.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io" or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "jantoniosantiz/jrodriguezantonio.github.io"
@@ -22,12 +22,12 @@ repository               : "jantoniosantiz/jrodriguezantonio.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
-  name             : "Juliana Rodriguez Antonio"
+  avatar           : "profile.jpg"
+  name             : "Juliana J. Antonio"
   pronouns         : # example: "she/her"  
-  bio              : "Ph.D. Candidate in Theoretical and Computational Chemistry @ Southern Methodist University, with expertise in molecular modeling, electronic structure theory, and vibrational spectroscopy. "
+  bio              : "Ph.D. Candidate in Theoretical and Computational Chemistry  - Southern Methodist University"
   location         : "Dallas, TX"
-  employer         : "Southern Methodist University"
+  employer         : "NSF GRFP Fellow"
   uri              : # URL
   email            : "jrodriguezantonio2@gmail.com" 
 
@@ -199,7 +199,7 @@ markdown_ext: "markdown,mkdown,mkdn,mkd,md"
 markdown: kramdown
 highlighter: rouge
 lsi: false
-excerpt_separator: "\n\n"
+excerpt_separator: <!--more-->
 incremental: false
 
 
@@ -223,7 +223,7 @@ collections:
   publications:
     output: true
     permalink: /:collection/:path/
-  portfolio:
+  projects:
     output: true
     permalink: /:collection/:path/
   talks:
@@ -269,10 +269,10 @@ defaults:
       author_profile: true
       share: true
       comments: true
-  # _portfolio
+  # _projects
   - scope:
       path: ""
-      type: portfolio
+      type: projects
     values:
       layout: single
       author_profile: true

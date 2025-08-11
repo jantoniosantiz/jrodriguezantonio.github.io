@@ -1,20 +1,14 @@
 ---
-title: "Teaching experience 1"
+title: "Computer Assisted Drug Design"
 collection: teaching
-type: "Undergraduate course"
+type: "Graduate course"
 permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
-date: 2014-01-01
-location: "City, Country"
+venue: "Southern Methodist University, Chemistry Department"
+date: 2024-08-01
+location: "Dallas, TX"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+<!--more-->
 
-Heading 1
-======
+Taught graduate-level labs integrating quantum mechanics, molecular modeling, and drug design with hands-on training in Molecular Dynamics, Docking, QM/MM, and QSAR. Designed assignments to assess both technical skill and critical thinking, provided detailed feedback, and guided students through troubleshooting computational tools like CHARMM and HPC allocations. Focused on making complex concepts accessible and fostering collaborative, research-driven learning.
 
-Heading 2
-======
-
-Heading 3
-======
