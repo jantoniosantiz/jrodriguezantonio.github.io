@@ -1,7 +1,6 @@
 ---
 title: "Metal/Covalent Organic Frameworks"
-excerpt: "Zeolite Imidazole Framework (ZIF-4)<br/><img src='jrodriguezantonio.github.io/images/Mo-ZIF4.png' style='width:400px; height:auto;'>"
+excerpt: "Zeolite Imidazole Framework (ZIF-4) ![ZIF-4](https://jantoniosantiz.github.io/jrodriguezantonio.github.io/images/Mo-ZIF4.png)
 
 ---
 
-This is an item in your portfolio. It can have images or nice text. If you name the file `.md`, it will be parsed as markdown. If you name the file `.html`, it will be parsed as HTML.

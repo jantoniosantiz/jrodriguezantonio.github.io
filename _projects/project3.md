@@ -1,6 +1,6 @@
 ---
 title: "Local Mode Analysis Development"
-excerpt: "Characterization of Normal Modes (CNM) into Local Mode components<br/><img src='jrodriguezantonio.github.io/images/Cr-S1-HIE-1.png' style='width:400px; height:auto;'>" 
+excerpt: "Characterization of Normal Modes (CNM) into Local Mode components ![CNM](https://jantoniosantiz.github.io/jrodriguezantonio.github.io/images/Cr-S1-HIE-1.png)" 
 
 ---
 
