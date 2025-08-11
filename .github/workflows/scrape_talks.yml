@@ -1,6 +1,8 @@
 name: Scrape Talk Locations
 
 on:
+permissions:
+  contents: write
   push:
     paths:
       - 'talks/**'
