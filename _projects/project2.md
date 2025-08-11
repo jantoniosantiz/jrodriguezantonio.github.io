@@ -1,6 +1,6 @@
 ---
 title: "Metal/Covalent Organic Frameworks"
-excerpt: "Zeolite Imidazole Framework (ZIF-4)<br/><img src='/images/Mo-ZIF4.png' style='width:400px; height:auto;'>"
+excerpt: "Zeolite Imidazole Framework (ZIF-4)<br/><img src='jrodriguezantonio.github.io/images/Mo-ZIF4.png' style='width:400px; height:auto;'>"
 
 ---
 
