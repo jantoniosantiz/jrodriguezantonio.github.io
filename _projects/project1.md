@@ -1,6 +1,7 @@
 ---
 title: "Artificial Metalloenzymes - Myoglobin Proteins"
-excerpt: "Schiff Base scaffold in active site of myoglobin ![Schiff Base](https://jantoniosantiz.github.io/jrodriguezantonio.github.io/images/TOC-1.png)"
+excerpt: 'Schiff Base scaffold in active site of myoglobin <img src="https://jantoniosantiz.github.io/jrodriguezantonio.github.io/images/TOC-1.png" style="max-width:300px; height:auto;" alt="Schiff Base" />'
+
 
 
 ---
